@@ -16,7 +16,7 @@ graph = {
 
 # Declare the heuristic values for each node
 heuristics = {
- 'A': 7,
+    'A': 7,
     'B': 6,
     'C': 4,
     'D': 3,
